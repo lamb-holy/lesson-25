@@ -15,27 +15,20 @@
 .item:nth-child(1) {
     top: 20px;
     left: 130px;
-    background-color: blue;
-    z-index: 3;
+    background-color: #ff8888;
+    z-index: 1;
 }
 
 .item:nth-child(2) {
-    top: 30px;
-    left: 230px;
-    background-color: red;
+    top: 110px;
+    left: 220px;
+    background-color: #7e8aeb;
     z-index: 2;
 }
 
 .item:nth-child(3) {
-    top: 140px;
-    left: 220px;
-    background-color: yellow;
+    top: 200px;
+    left: 310px;
+    background-color: #4def99;
     z-index: 1;
-}
-
-.item:nth-child(4) {
-    top: 120px;
-    left: 120px;
-    background-color: green;
-    z-index: 4;
 }
